@@ -1,3 +1,11 @@
 .env
 data/
 results/
+# Generated certs / keys / logs
+/results/generated_certs/
+results/test_logs/
+*.key
+.env
+data/raw_certs/
+data/raw_certs_generated/
+data/fieldpool.db
